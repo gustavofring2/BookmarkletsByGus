@@ -9,4 +9,5 @@ How to use bookmarkets:
 All Bookmarklets and their uses:
 TAB CLOAK: Cloaks the name of a tab with whatever you choose, and has a customisable icon.
 BLOOKET SET GOLD: Sets the amount of gold you have in Blooket. (only works for some blooket games)
+DESTROY SITE: Use arrow keys to move and space to shoot. Fly a plane and destroy things to get points.
 More Bookmarklets coming soon!
