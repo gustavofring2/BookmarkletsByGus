@@ -23,6 +23,8 @@ INVERT PAGE: Inverts a page. Useful for sites without dark mode. (click again to
 
 PIANO: Adds a piano to any page, keys = keys.
 
+TEST CHEAT: Press this on a test to get answers.
+
 More Bookmarklets coming soon!
 
 Make sure to chat in Discussions!
