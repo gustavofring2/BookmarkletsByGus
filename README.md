@@ -30,4 +30,5 @@ More Bookmarklets coming soon!
 Make sure to chat in Discussions!
 
 
-Fun Fact: Although it's super laggy, 3-D page and destroy site work together.
+Fun Fact: Although it's super laggy, 3-D page and destroy site work together. Heres a screenshot of 3-D page, destroy page, piano, and flashlight together.![dd](https://user-images.githubusercontent.com/116337896/207681238-fba7d9f5-b412-4ad9-bd19-b476ed9ba344.PNG)
+
