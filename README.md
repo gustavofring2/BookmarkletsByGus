@@ -14,6 +14,8 @@ BLOOKET SET GOLD: Sets the amount of gold you have in Blooket. (only works for s
 
 DESTROY SITE: Use arrow keys to move and space to shoot. Fly a plane and destroy things to get points.
 
+FLASHLIGHT: Makes the page dark and turns your mouse into a flashlight. (may cause lag, refresh page to stop)
+
 3-D PAGE: Makes a page 3-D with customisable settings.
 
 More Bookmarklets coming soon!
