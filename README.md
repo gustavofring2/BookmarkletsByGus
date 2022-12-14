@@ -28,3 +28,6 @@ TEST CHEAT: Press this on a test to get answers.
 More Bookmarklets coming soon!
 
 Make sure to chat in Discussions!
+
+
+Fun Fact: Although it's super laggy, 3-D page and destroy site work together.
