@@ -18,6 +18,8 @@ FLASHLIGHT: Makes the page dark and turns your mouse into a flashlight. (may cau
 
 3-D PAGE: Makes a page 3-D with customisable settings.
 
+INVERT PAGE: Inverts a page. Useful for sites without dark mode. (click again to disable)
+
 PIANO: Adds a piano to any page, keys = keys.
 
 More Bookmarklets coming soon!
