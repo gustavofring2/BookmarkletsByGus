@@ -18,6 +18,8 @@ FLASHLIGHT: Makes the page dark and turns your mouse into a flashlight. (may cau
 
 3-D PAGE: Makes a page 3-D with customisable settings.
 
+PIANO: Adds a piano to any page, keys = keys.
+
 More Bookmarklets coming soon!
 
 Make sure to chat in Discussions!
